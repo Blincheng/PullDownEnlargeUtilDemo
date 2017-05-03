@@ -15,7 +15,7 @@ Step 2. Add the dependency
 
 
   	dependencies {
-		compile 'com.github.Blincheng:PullDownEnlargeUtilDemo:v1.1'
+		compile 'com.github.Blincheng:PullDownEnlargeUtilDemo:v1.2'
 	}
 
 【Android】商品详情页下拉放大动画工具类，一行代码集成使用
