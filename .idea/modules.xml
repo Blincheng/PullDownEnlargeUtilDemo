@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/PullDownEnlargeUtilDemo.iml" filepath="$PROJECT_DIR$/PullDownEnlargeUtilDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pulldownenlargeutil/pulldownenlargeutil.iml" filepath="$PROJECT_DIR$/pulldownenlargeutil/pulldownenlargeutil.iml" />
     </modules>
   </component>
 </project>

@@ -5,6 +5,8 @@ import android.os.Bundle;
 import android.view.ViewGroup;
 import android.widget.ImageView;
 
+import com.yiguo.pulldownenlargeutil.PullDownEnlargeAnimUtil;
+
 public class MainActivity extends Activity {
 
     @Override

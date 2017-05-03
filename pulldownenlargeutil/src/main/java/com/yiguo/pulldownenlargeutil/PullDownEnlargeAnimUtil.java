@@ -1,4 +1,4 @@
-package com.yiguo.pulldownenlargeutildemo;
+package com.yiguo.pulldownenlargeutil;
 
 import android.animation.ObjectAnimator;
 import android.animation.ValueAnimator;
