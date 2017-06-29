@@ -1,4 +1,4 @@
-package com.yiguo.pulldownenlargeutildemo;
+package com.mic.pulldownenlargeutildemo;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

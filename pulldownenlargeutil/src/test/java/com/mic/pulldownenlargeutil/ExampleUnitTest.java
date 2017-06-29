@@ -1,4 +1,4 @@
-package com.yiguo.pulldownenlargeutildemo;
+package com.mic.pulldownenlargeutil;
 
 import org.junit.Test;
 

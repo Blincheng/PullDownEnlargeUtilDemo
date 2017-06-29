@@ -1,11 +1,11 @@
-package com.yiguo.pulldownenlargeutildemo;
+package com.mic.pulldownenlargeutildemo;
 
 import android.app.Activity;
 import android.os.Bundle;
 import android.view.ViewGroup;
 import android.widget.ImageView;
 
-import com.yiguo.pulldownenlargeutil.PullDownEnlargeAnimUtil;
+import com.mic.pulldownenlargeutil.PullDownEnlargeAnimUtil;
 
 public class MainActivity extends Activity {
 
